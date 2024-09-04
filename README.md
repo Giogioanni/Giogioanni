@@ -3,7 +3,7 @@
 - 🌱 I’m currently a Computer Science Graduate
 - 📫 How to reach me Email - gioanni.gm@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ About me: I want to do something no one else has done.
+- ⚡ About me: I want to do innovate and create things people will use in their everyday life.
 
 <!---
 Giogioanni/Morales
