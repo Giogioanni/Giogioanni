@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Giogioanni
 - 👀 I’m interested in being a competitor in any field I am in.
-- 🌱 I’m currently a Computer Science Graduate
+- 🌱 I’m currently a Computer Science Undergrad
 - 📫 How to reach me Email - gioanni.gm@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ About me: I want to innovate and create things people will use in their everyday life.
