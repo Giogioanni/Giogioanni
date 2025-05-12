@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Giogioanni
 - 👀 I’m interested in being a competitor in any field I am in, always striving to learn and improve.
-- 🌱 I’m currently a Computer Science Undergrad
+- 🌱 I’m currently a Computer Science Undergrad at SNHU
 - 💻 About me: I'm passionate about developing innovative software solutions
 - 📫 How to reach me Email - gioanni.gm@gmail.com
 - 😄 Pronouns: He/Him
