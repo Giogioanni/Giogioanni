@@ -1,3 +1,6 @@
+[![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/372372861/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/372372861/week.md)
+
+
 - 👋 Hi, I’m @Giogioanni
 - 👀 I’m interested in being a competitor in any field I am in, always striving to learn and improve.
 - 🌱 I’m currently a Computer Science Undergrad at SNHU
